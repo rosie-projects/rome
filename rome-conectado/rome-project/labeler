@@ -1,0 +1,16 @@
+import pcbnew
+
+board = pcbnew.GetBoard()
+
+for footprint in board.GetFootprints():
+    for pad in footprint.Pads():
+        net = pad.GetNet()
+        if net is not None:
+            net_name = net.GetNetname()
+            pos = pad.GetPosition()
+            
+            text = pcbnew.PCB_TEXT(board)
+            text.SetText(net_name)
+            text.SetPosition(pos + pcbnew.wxPoint(254000, 0))  # desloca 1mm
+            text.SetLayer(pcbnew.F_SilkS)
+            board.Add(text)
