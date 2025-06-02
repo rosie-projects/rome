@@ -1,4 +1,4 @@
-25691386378057742
+25693135277213616
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102962,3 +102962,10 @@ Varistor VF
 0
 2
 2
+logo
+logo_rosie
+Converted using: svg2mod logo_plain.svg -o logo.kicad_mod --units mm --force F.SilkS --factor 0.6
+svg2mod
+0
+0
+0
