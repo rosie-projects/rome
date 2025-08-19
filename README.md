@@ -3,7 +3,7 @@
 ## Sobre o Projeto
 ROME é um projeto educacional dedicado a democratizar o acesso à educação em robótica para escolas públicas e comunidade. O projeto desenvolve ferramentas, materiais didáticos e minicursos de robótica, sendo uma iniciativa de hardware de código aberto que visa transformar alunos de consumidores passivos em desenvolvedores de soluções tecnológicas.
 
-(PlataformaMecanica/imagens/Cópia%20de%20flyerV4.jpg)
+![Image](https://github.com/user-attachments/assets/0fbf7ff9-27f2-4535-abc3-8a253854482f)
 
 ## Objetivos Principais
 - Promover inclusão e transformação social através da robótica educacional
