@@ -1,2 +1,10 @@
 rome-conectado/rome-project/rome-backups
 ~*
+artigos/*/*.aux
+artigos/*/*.bbl
+artigos/*/*.blg
+artigos/*/*.log
+artigos/*/*.fls
+artigos/*/*.out
+artigos/*/*.fdb_latexmk
+artigos/*/*.synctex.gz
